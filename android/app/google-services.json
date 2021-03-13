@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "264908127230",
+    "firebase_url": "https://testproject-29500.firebaseio.com",
+    "project_id": "testproject-29500",
+    "storage_bucket": "testproject-29500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264908127230:android:c88aac30b27c2884ef5eaf",
+        "android_client_info": {
+          "package_name": "com.example.fade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264908127230-0nju5odud5volehgmv1gib4lvrgnsh42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXtz0dl-XNaIDQrfeDTk0-17otuu55Vhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264908127230-0nju5odud5volehgmv1gib4lvrgnsh42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
